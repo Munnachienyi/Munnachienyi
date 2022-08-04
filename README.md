@@ -38,3 +38,7 @@ I'm Munna, A Software Developer 🚀🚀. Technical writing just gets me.
 [![Munna's GitHub stats](https://github-readme-stats.vercel.app/api?username=munnadevv&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 
  [![Munna's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=munnadevv&theme=redical&hide_border=true)](#!)
+
+ ![Jokes Card](https://readme-jokes.vercel.app/api?theme=redical&hide_border=true)
+
+</div>
