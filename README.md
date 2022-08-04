@@ -6,3 +6,5 @@
 I'm Munna, a Software Developer 🚀🚀. Technical writing just gets me.
 <br/>
  <img align="right" alt="GIF" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="300" height="200" />
+
+**Talking about Personal Stuffs:**
