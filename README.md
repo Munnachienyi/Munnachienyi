@@ -9,7 +9,7 @@ I'm Munna, a Software Developer 🚀🚀. Technical writing just gets me.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 👨🏽‍💻 I’m currently working on something cool 😄:;
 - 🌱 I’m currently learning and contributing to everything web3; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 My twitter is [@enyi_success](https://twitter.com/enyi_success)
