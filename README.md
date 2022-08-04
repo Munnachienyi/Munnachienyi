@@ -3,7 +3,7 @@
 
 <br />
 <br />
-I'm Munna and i am a Software Developer 🚀🚀.technical writing just gets me.
+I'm Munna, A Software Developer 🚀🚀. Technical writing just gets me.
 <br/>
  <img align="right" alt="GIF" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" width="300" height="200" />
 
