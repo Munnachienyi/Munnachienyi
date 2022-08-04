@@ -12,5 +12,5 @@ I'm Munna, a Software Developer 🚀🚀. Technical writing just gets me.
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 🌱 I’m currently learning and contributing to everything web3; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 My twitter is [@enyi_success](https://twitter.com/enyi_succcess)
+- 📫 My twitter is [@enyi_success](https://twitter.com/enyi_success)
 - 📫 My discord is [Hey, Munna](https://discord.com/users/Munna20#4311)
