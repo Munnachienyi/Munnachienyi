@@ -35,7 +35,7 @@ I'm Munna, A Software Developer 🚀🚀. Technical writing just gets me.
 
 <div id="github_stats" align="center">
  
-[![Munna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munnnachienyi&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
+[![Munna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munnachienyi&count_private=true&show_icons=true&theme=radical&hide_border=true)](#!)
 
  [![Munna's github activity graph](https://github-activity-graph-oopa.herokuapp.com/graph?username=Munnachienyi&theme=redical&hide_border=true)](#!)
 
