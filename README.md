@@ -1,9 +1,9 @@
 
-### Hey there 🙋🏿‍♀️
+### Hey there 👋
 
 <br />
 <br />
-I'm Munna, A Software Developer 🚀🚀.
+I'm Munna, A Software Developer 🚀.
 <br/>
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/105428107/184617106-982e23aa-a7e8-4b21-a767-48b4350168ff.gif" width="300" height="250" />
 
