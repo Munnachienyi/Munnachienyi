@@ -1,5 +1,5 @@
 
-### Hey there <img src="https://cutewallpaper.org/download.php?file=/27/best-wallpaper-gif-program/coding-gifs-get-the-best-gif-on-giphy.gif" width="25px">
+### Hey there <img src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
 
 <br />
 <br />
