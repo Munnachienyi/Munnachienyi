@@ -10,8 +10,8 @@ I'm Munna, A Software Developer 🚀.
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m working on building something nice and contributing to fun open source projrct.:smile:;
-- 🌱 I’m currently learning and contributing to open source projects and getting better at it.; 
+- 👨🏽‍💻 I’m working on building and contributing to fun open source projrct.:smile;
+- 🌱 I’m currently learning to contribute to open source projects; 
 - 💬 I would share my knowledge, all you have to do is reach out;
 - 📫 My twitter is [@enyi_success](https://twitter.com/enyi_success)
 - 📫 My discord is [Hey, Munna](https://discord.com/users/Munna20#4311)
