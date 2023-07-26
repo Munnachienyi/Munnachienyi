@@ -2,16 +2,14 @@
 ### Hey there 👋
 
 <br />
-<br />
-I'm Munna, A Frontend Developer 🚀.
-<br/>
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/105428107/184617106-982e23aa-a7e8-4b21-a767-48b4350168ff.gif" width="200" height="200" />
+I'm Munna,A frontend Developer 🚀.
+
 
 
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m working on building and contributing to fun open source project:😊;
-- 🌱 I’m currently learning to contribute to open source projects; 
+- 🌱 I’m currently learning Tailwind CSS; 
 - 💬 I would share my knowledge, all you have to do is reach out;
 - 📫 My twitter is [@enyi_success](https://twitter.com/enyi_success)
 - 📫 My discord is [Hey, Munna](https://discord.com/users/Munna20#4311)
