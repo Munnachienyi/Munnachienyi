@@ -8,8 +8,8 @@ I'm Munna, A frontend Developer 🚀.
 
 **Talking about Personal kinds of Stuff:**
 
-- 👨🏽‍💻 I’m working on contributing to open-source project:😊;
-- 🌱 I’m currently learning Tailwind CSS; 
+- 👨🏽‍💻 I’m working on contributing to an open-source project:😊;
+- 🌱 I’m currently learning Vanilla Javascript; 
 - 💬 I would share my knowledge, all you have to do is reach out;
 - 📫 My Twitter is [@enyi_success](https://twitter.com/enyi_success)
 - 📫 My discord is [Hey, Munna](https://discord.com/users/Munna20#4311)
