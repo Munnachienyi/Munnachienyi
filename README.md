@@ -2,15 +2,15 @@
 ### Hey there 👋
 
 <br />
-I'm Munna, A frontend Developer 🚀.
+I'm Success, I'm a Data Analyst📊.
 
 
 
 **Talking about Personal kinds of Stuff:**
 
-- 👨🏽‍💻 I’m working on contributing to an open-source project:😊;
-- 🌱 I’m currently learning Vanilla Javascript; 
-- 💬 I would share my knowledge, all you have to do is reach out;
+- 👨🏽‍💻 I’m a good data analyst/strategist for your business development;
+- 🌱 I’m currently learning Power Bi; 
+- 💬 Fun fact about me is I found out data is needed in every field and it is my strong why
 - 📫 My Twitter is [@enyi_success](https://twitter.com/enyi_success)
 - 📫 My discord is [Hey, Munna](https://discord.com/users/Munna20#4311)
 
